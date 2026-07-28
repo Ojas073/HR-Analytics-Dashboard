@@ -1,0 +1,21 @@
+Green Color : #10B981
+Orange : #EF4444
+Blue : #118DFF
+Purple : #8B5CF6
+Male : #2563EB
+Female : #EC4899
+Heatmap
+#EF4444
+#F59E0B
+#FACC15
+#22C55E
+
+Measure
+Total Employee
+Attrition Count
+Attrition Rate %
+Avg Performance
+Female %
+Male %
+Promoted Employees
+Promotion Rate %
